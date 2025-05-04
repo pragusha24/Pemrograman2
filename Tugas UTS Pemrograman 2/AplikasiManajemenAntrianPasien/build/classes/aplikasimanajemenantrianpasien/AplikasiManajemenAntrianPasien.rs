@@ -1,0 +1,5 @@
+Pasien
+AplikasiManajemenAntrianPasien$1
+AplikasiManajemenAntrianPasien$2
+AplikasiManajemenAntrianPasien
+AntrianPasien
